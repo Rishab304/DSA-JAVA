@@ -1,0 +1,13 @@
+int[] arr; //declaration of array
+int[] arr = {1,2,3,4,5}; \\initialisation of array
+int[] arr= {1,2,3,4}; \\ here the value is already initialized in array.
+int[] brr= new int[3]; \\ here we can add the values in array later.
+
+Array fixed size ke hoti hai.
+array ke length ke liye (arr.length); jaha arr array ka naam hai 
+yaha parentthesis nhi hai because it is a property hai method nhi 
+
+arrayName[index] = newValue; \\array ke value change krne ke liye
+
+
+
