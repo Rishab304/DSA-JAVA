@@ -1,8 +1,6 @@
 package array;
-
-import java.util.Scanner;
-
-public class array {
+import java.util.*;
+public class array0 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
